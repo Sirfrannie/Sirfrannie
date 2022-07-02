@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fran
 - 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning c, c#, python
+- 🌱 I’m currently learning c++, c#, python
 - 💞️ I’m looking to collaborate on ()
 - 📫 How to reach me ()
 
